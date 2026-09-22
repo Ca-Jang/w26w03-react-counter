@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css'; // CSS 파일명은 실제 환경에 맞게 수정해 주세요.
 
 function Apps() {
